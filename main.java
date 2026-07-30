@@ -12,7 +12,19 @@ public class main{
       //bufferreader
       //--------------------------------------------------------------
       //Arrays.fill(a,2);
-        
+      // unary ; binary; ternary operators
+                        // a= condition ? true: false;
+
+//homwwork- indian currency notes and coins - change
+
+
+
+
+
+
+
+
+
 
     }
 }
