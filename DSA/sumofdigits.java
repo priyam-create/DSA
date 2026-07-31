@@ -8,7 +8,7 @@ public class sumofdigits {
         int rem;
         while(n>0){
             rem = n%10;
-            sum=sum+rem;
+            sum+=rem;
             n/=10;
     }
     System.out.println(sum);
